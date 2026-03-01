@@ -61,7 +61,7 @@
   {"tanggal": "2010-03-01", "hijriyah": 15, "bulan": 3, "tahun": 1431},
   {"tanggal": "2010-03-02", "hijriyah": 16, "bulan": 3, "tahun": 1431},
   {"tanggal": "2010-03-03", "hijriyah": 17, "bulan": 3, "tahun": 1431},
-  {"tanggal": "2010-03-04", "hijriyah": 18, "bulan": 3, "tahun": 1431"},
+  {"tanggal": "2010-03-04", "hijriyah": 18, "bulan": 3, "tahun": 1431},
   {"tanggal": "2010-03-05", "hijriyah": 19, "bulan": 3, "tahun": 1431},
   {"tanggal": "2010-03-06", "hijriyah": 20, "bulan": 3, "tahun": 1431},
   {"tanggal": "2010-03-07", "hijriyah": 21, "bulan": 3, "tahun": 1431},
@@ -6209,4 +6209,5 @@
   {"tanggal": "2026-12-30", "hijriyah": 21, "bulan": 7, "tahun": 1448},
   {"tanggal": "2026-12-31", "hijriyah": 22, "bulan": 7, "tahun": 1448}
 ]
+
 
