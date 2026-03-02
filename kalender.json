@@ -5031,7 +5031,7 @@
   {"tanggal": "2007-10-09", "hijriyah": 27, "bulan": 9, "tahun": 1428},
   {"tanggal": "2007-10-10", "hijriyah": 28, "bulan": 9, "tahun": 1428},
   {"tanggal": "2007-10-11", "hijriyah": 29, "bulan": 9, "tahun": 1428},
-  {"tanggal": "2007-10-12", "hijriyah": 30, "bulan": 9, "tahun": 1428},
+  {"tanggal": "2007-10-12", "hijriyah": 30, "bulan": 9, "tahun": 1428, "nama": "Cuti Bersama", "warna": "#ff6600"},
   {"tanggal": "2007-10-13", "hijriyah": 1, "bulan": 10, "tahun": 1428, "nama": "Hari Raya Idul Fitri ", "warna": "#ff0009"},
   {"tanggal": "2007-10-14", "hijriyah": 2, "bulan": 10, "tahun": 1428, "nama": "Hari Raya Idul Fitri", "warna": "#ff0009"},
   {"tanggal": "2007-10-15", "hijriyah": 3, "bulan": 10, "tahun": 1428, "nama": "Cuti Bersama", "warna": "#ff6600"},
@@ -12053,6 +12053,7 @@
 {"tanggal": "2026-12-30", "hijriyah": 21, "bulan": 7, "tahun": 1448},
 {"tanggal": "2026-12-31", "hijriyah": 22, "bulan": 7, "tahun": 1448}
 ]
+
 
 
 
