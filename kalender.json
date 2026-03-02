@@ -373,7 +373,7 @@
   {"tanggal": "1995-01-07", "hijriyah": 5, "bulan": 8, "tahun": 1415},
   {"tanggal": "1995-01-08", "hijriyah": 6, "bulan": 8, "tahun": 1415},
   {"tanggal": "1995-01-09", "hijriyah": 7, "bulan": 8, "tahun": 1415},
-  {"tanggal": "1995-01-10", "hijriyah": 8, "bulan": 8, "tahun": 1415, "nama": "Isra Mi'raj nabi Muhammad SAW", "warna": "#ff0009"},
+  {"tanggal": "1995-01-10", "hijriyah": 8, "bulan": 8, "tahun": 1415},
   {"tanggal": "1995-01-11", "hijriyah": 9, "bulan": 8, "tahun": 1415},
   {"tanggal": "1995-01-12", "hijriyah": 10, "bulan": 8, "tahun": 1415},
   {"tanggal": "1995-01-13", "hijriyah": 11, "bulan": 8, "tahun": 1415},
@@ -12053,5 +12053,6 @@
 {"tanggal": "2026-12-30", "hijriyah": 21, "bulan": 7, "tahun": 1448},
 {"tanggal": "2026-12-31", "hijriyah": 22, "bulan": 7, "tahun": 1448}
 ]
+
 
 
