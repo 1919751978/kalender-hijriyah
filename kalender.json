@@ -3515,7 +3515,7 @@
   {"tanggal": "2003-08-15", "hijriyah": 16, "bulan": 6, "tahun": 1424},
   {"tanggal": "2003-08-16", "hijriyah": 17, "bulan": 6, "tahun": 1424},
   {"tanggal": "2003-08-17", "hijriyah": 18, "bulan": 6, "tahun": 1424, "nama": "Hari Kemerdekaan RI", "warna": "#ff0009"},
-  {"tanggal": "2003-08-18", "hijriyah": 19, "bulan": 6, "tahun": 1424},
+  {"tanggal": "2003-08-18", "hijriyah": 19, "bulan": 6, "tahun": 1424, "nama": "Libur Peringatan HUT RI", "warna": "#ff0009"},
   {"tanggal": "2003-08-19", "hijriyah": 20, "bulan": 6, "tahun": 1424},
   {"tanggal": "2003-08-20", "hijriyah": 21, "bulan": 6, "tahun": 1424},
   {"tanggal": "2003-08-21", "hijriyah": 22, "bulan": 6, "tahun": 1424},
@@ -12053,6 +12053,7 @@
 {"tanggal": "2026-12-30", "hijriyah": 21, "bulan": 7, "tahun": 1448},
 {"tanggal": "2026-12-31", "hijriyah": 22, "bulan": 7, "tahun": 1448}
 ]
+
 
 
 
