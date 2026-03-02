@@ -5341,8 +5341,8 @@
   {"tanggal": "2008-08-14", "hijriyah": 12, "bulan": 8, "tahun": 1429},
   {"tanggal": "2008-08-15", "hijriyah": 13, "bulan": 8, "tahun": 1429},
   {"tanggal": "2008-08-16", "hijriyah": 14, "bulan": 8, "tahun": 1429},
-  {"tanggal": "2008-08-17", "hijriyah": 15, "bulan": 8, "tahun": 1429, "nama": "Hari Kemerdekaan RI yg diperingati Ahad 17-8-2028", "warna": "#ff0009"},
-  {"tanggal": "2008-08-18", "hijriyah": 16, "bulan": 8, "tahun": 1429, "nama": "Cuti Bersama", "warna": "#ff6600"},
+  {"tanggal": "2008-08-17", "hijriyah": 15, "bulan": 8, "tahun": 1429},
+  {"tanggal": "2008-08-18", "hijriyah": 16, "bulan": 8, "tahun": 1429, "nama": "Hari Kemerdekaan RI yg diperingati Ahad 17-8-2028", "warna": "#ff0009"},
   {"tanggal": "2008-08-19", "hijriyah": 17, "bulan": 8, "tahun": 1429},
   {"tanggal": "2008-08-20", "hijriyah": 18, "bulan": 8, "tahun": 1429},
   {"tanggal": "2008-08-21", "hijriyah": 19, "bulan": 8, "tahun": 1429},
@@ -12053,6 +12053,7 @@
 {"tanggal": "2026-12-30", "hijriyah": 21, "bulan": 7, "tahun": 1448},
 {"tanggal": "2026-12-31", "hijriyah": 22, "bulan": 7, "tahun": 1448}
 ]
+
 
 
 
