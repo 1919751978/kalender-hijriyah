@@ -5742,7 +5742,7 @@
   {"tanggal": "2009-09-19", "hijriyah": 29, "bulan": 9, "tahun": 1430},
   {"tanggal": "2009-09-20", "hijriyah": 1, "bulan": 10, "tahun": 1430},
   {"tanggal": "2009-09-21", "hijriyah": 2, "bulan": 10, "tahun": 1430, "nama": "Hari Raya Idul Fitri yg jatuh 20-9-2009", "warna": "#ff0009"},
-  {"tanggal": "2009-09-22", "hijriyah": 3, "bulan": 10, "tahun": 1430, "nama": "Hari Raya Idul Fitri", "warna": "#ff6600"},
+  {"tanggal": "2009-09-22", "hijriyah": 3, "bulan": 10, "tahun": 1430, "nama": "Hari Raya Idul Fitri", "warna": "#ff0009"},
   {"tanggal": "2009-09-23", "hijriyah": 4, "bulan": 10, "tahun": 1430, "nama": "Cuti Bersama", "warna": "#ff6600"},
   {"tanggal": "2009-09-24", "hijriyah": 5, "bulan": 10, "tahun": 1430},
   {"tanggal": "2009-09-25", "hijriyah": 6, "bulan": 10, "tahun": 1430},
@@ -12053,6 +12053,7 @@
 {"tanggal": "2026-12-30", "hijriyah": 21, "bulan": 7, "tahun": 1448},
 {"tanggal": "2026-12-31", "hijriyah": 22, "bulan": 7, "tahun": 1448}
 ]
+
 
 
 
