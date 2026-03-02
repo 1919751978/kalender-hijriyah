@@ -1458,8 +1458,8 @@
   {"tanggal": "1997-12-27", "hijriyah": 27, "bulan": 8, "tahun": 1418},
   {"tanggal": "1997-12-28", "hijriyah": 28, "bulan": 8, "tahun": 1418},
   {"tanggal": "1997-12-29", "hijriyah": 29, "bulan": 8, "tahun": 1418},
-  {"tanggal": "1997-12-30", "hijriyah": 30, "bulan": 8, "tahun": 1418, "nama": "Awal Ramadhan", "warna": "#00b300"},
-  {"tanggal": "1997-12-31", "hijriyah": 1, "bulan": 9, "tahun": 1418},
+  {"tanggal": "1997-12-30", "hijriyah": 30, "bulan": 8, "tahun": 1418},
+  {"tanggal": "1997-12-31", "hijriyah": 1, "bulan": 9, "tahun": 1418}, "nama": "Awal Ramadhan", "warna": "#00b300"},
   {"tanggal": "1998-01-01", "hijriyah": 2, "bulan": 9, "tahun": 1418, "nama": "Tahun Baru Masehi", "warna": "#ff0009"},
   {"tanggal": "1998-01-02", "hijriyah": 3, "bulan": 9, "tahun": 1418},
   {"tanggal": "1998-01-03", "hijriyah": 4, "bulan": 9, "tahun": 1418},
@@ -12053,6 +12053,7 @@
 {"tanggal": "2026-12-30", "hijriyah": 21, "bulan": 7, "tahun": 1448},
 {"tanggal": "2026-12-31", "hijriyah": 22, "bulan": 7, "tahun": 1448}
 ]
+
 
 
 
